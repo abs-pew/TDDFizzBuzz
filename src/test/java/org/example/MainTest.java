@@ -21,7 +21,7 @@ class MainTest {
     void fizzBuzz_shouldReturnBuzz_whenCalledWith5Multiple(){
         //given
         int num = 5;
-        String expected = "Buzz";
+        String expected = "Buzz11";
         //when
         String actual = Main.fizzBuzz(num);
         //then
